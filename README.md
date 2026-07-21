@@ -1,1 +1,2 @@
-# virat-kohli-portrait-using-numpy-and-matplotlib
+# VK using Numpy and Matplotlib
+<img src="image.png">

@@ -11,5 +11,8 @@
 - using scatter plot of matplotlib to create image
 # Libraries
 - Numpy (to create data)
+<img src="images.png">
 - Pandas (data handling)
+<img src="images (1).png">
 - Matplotlib (visualization)
+<img src="images (2).png">

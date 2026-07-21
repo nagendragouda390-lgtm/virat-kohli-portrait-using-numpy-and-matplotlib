@@ -10,9 +10,6 @@
 - creating csv to store data
 - using scatter plot of matplotlib to create image
 # Libraries
-- Numpy (to create data)
-<img src="images.png">
-- Pandas (data handling)
-<img src="images (1).png">
-- Matplotlib (visualization)
-<img src="images (2).png">
+- Numpy (to create data)<img src="images.png" height="50" width="50">
+- Pandas (data handling)<img src="images (1).png">
+- Matplotlib (visualization)<img src="images (2).png">

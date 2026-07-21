@@ -13,3 +13,14 @@
 - Numpy (to create data)<img src="images.png">
 - Pandas (data handling)<img src="images (1).png">
 - Matplotlib (visualization)<img src="images (2).png">
+
+# skills improved
+- patience
+- accuracy
+- numpy
+- pandas
+- matplotlib
+
+# Tough part
+- Finding coordinate
+- Too long code
